@@ -1,22 +1,27 @@
 {
 	"data": [{
 			"name": "Dictionary App",
-			"about": "This App provides the definition,example and pronounciation of a word."
+			"about": "This App provides the definition,example and pronounciation of a word.",
+		         "link":"https://awesomedictionary1.netlify.app"
 		},
 		{
 			"name": "News App",
-			"about": "This App provides the latest news of country"
+			"about": "This App provides the latest news of country",
+			"link":"https://news-rapid.netlify.app"
 		}, {
 			"name": "Music App",
-			"about": "User can listen a song upto 30 seconds."
+			"about": "User can listen a song upto 30 seconds.",
+			"link":"https://instancemusic.netlify.app"
 		},
 		{
 			"name": "Notes App",
-			"about": "User can create notes for instance."
+			"about": "User can create notes for instance.",
+			"link":"https://notes-make.netlify.app"
 		},
 		{
 			"name": "Weather App",
-			"about": "This app tells us the weather for a entered location."
+			"about": "This app tells us the weather for a entered location.",
+			"link":"https://weather20023.netlify.app"
 		},
 		{
 			"name": "Online IDE App",
