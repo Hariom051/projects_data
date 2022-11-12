@@ -33,6 +33,12 @@
 			"about": "A user can code in six languages.",
 			"link": "https://hellocody.netlify.app",
 			"image":"/static/media/onlineide.f59b0e60bfe9fe4f8669.png"
+		},
+		 {
+			"name": "Resume App",
+			"about": "Hariom Resume",
+			"link": "https://hariomresume.netlify.app",
+			"image":"/static/media/onlineide.f59b0e60bfe9fe4f8669.png"
 		}
 	]
 }
