@@ -3,36 +3,36 @@
 			"name": "Dictionary App",
 			"about": "This App provides the definition,example and pronounciation of a word.",
 			"link": "https://awesomedictionary1.netlify.app",
-			"image": "dictionary"
+			"image":"/static/media/dictionary.4a288f6ad830ec3df818.png"
 		},
 		{
 			"name": "News App",
 			"about": "This App provides the latest news of country",
 			"link": "https://news-rapid.netlify.app",
-			"image": "news"
+			"image": "/static/media/news.89532beccf07be1a8ede.png"
 		}, {
 			"name": "Music App",
 			"about": "User can listen a song upto 30 seconds.",
 			"link": "https://instancemusic.netlify.app",
-			"image": "music"
+			"image": "/static/media/music.2bf5a007cea95ad13b53.png"
 		},
 		{
 			"name": "Notes App",
 			"about": "User can create notes for instance.",
 			"link": "https://notes-make.netlify.app",
-			"image": "notes"
+			"image": "/static/media/notes.7196b614b298a921371f.png"
 		},
 		{
 			"name": "Weather App",
 			"about": "This app tells us the weather for a entered location.",
 			"link": "https://weather20023.netlify.app",
-			"image": "weather"
+			"image":"/static/media/weather.1aa16f8b2c5eb2a18c8f.png"
 		},
 		{
 			"name": "Online IDE App",
 			"about": "A user can code in six languages.",
 			"link": "https://hellocody.netlify.app",
-			"image": "onlineide"
+			"image":"/static/media/onlineide.f59b0e60bfe9fe4f8669.png"
 		}
 	]
 }
