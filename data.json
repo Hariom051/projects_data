@@ -3,36 +3,36 @@
 			"name": "Dictionary App",
 			"about": "This App provides the definition,example and pronounciation of a word.",
 		         "link":"https://awesomedictionary1.netlify.app",
-		          "image":dictionary
+		          "image":"dictionary"
 		},
 		{
 			"name": "News App",
 			"about": "This App provides the latest news of country",
 			"link":"https://news-rapid.netlify.app",
-			"image":news
+			"image":"news"
 		}, {
 			"name": "Music App",
 			"about": "User can listen a song upto 30 seconds.",
 			"link":"https://instancemusic.netlify.app",
-			"image":music
+			"image":"music"
 		},
 		{
 			"name": "Notes App",
 			"about": "User can create notes for instance.",
 			"link":"https://notes-make.netlify.app",
-			"image":notes
+			"image":"notes"
 		},
 		{
 			"name": "Weather App",
 			"about": "This app tells us the weather for a entered location.",
 			"link":"https://weather20023.netlify.app",
-			"image":weather
+			"image":"weather"
 		},
 		{
 			"name": "Online IDE App",
 			"about": "A user can code in six languages.",
 			"link":"https://hellocody.netlify.app",
-			"image":onlineide
+			"image":"onlineide"
 		}
 	]
 }
